@@ -1,0 +1,1 @@
+let smth: string | number;
